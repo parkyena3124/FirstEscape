@@ -1,0 +1,15 @@
+# Unreal Engine 자동 생성 폴더
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+
+# 운영체제
+.DS_Store
+Thumbs.db
