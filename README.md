@@ -30,17 +30,6 @@ Unreal Engine의 기본적인 상호작용 시스템을 구현합니다.
 - [x] 상호작용 거리 감지
 - [x] 범위 밖에서는 문 조작 불가능
 
-### Learned
-
-- Actor / Component
-- Blueprint Event Graph
-- Custom Event
-- Boolean
-- Branch
-- Collision / Overlap
-- Enhanced Input
-- Blueprint Reference
-
 ---
 
 ## Phase 2 — Key & Locked Door System ✅
