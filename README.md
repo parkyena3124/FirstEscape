@@ -69,8 +69,8 @@ Unreal Engine의 기본적인 상호작용 시스템을 구현합니다.
 - [x] `WBP_Interaction` 생성
 - [x] Canvas Panel 구성
 - [x] `InteractionText` 추가
-- [ ] InteractionText 화면 하단 중앙 배치
-- [ ] 문 접근 시 `E - 문 열기` 표시
+- [x] InteractionText 화면 하단 중앙 배치
+- [x] 문 접근 시 `E - 문 열기` 표시
 - [ ] 열쇠 접근 시 `F - 열쇠 줍기` 표시
 - [ ] 상호작용 범위를 벗어나면 UI 숨기기
 - [ ] 상황에 따라 안내 문구 변경
